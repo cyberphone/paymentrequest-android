@@ -17,3 +17,7 @@
   "supported_origins": "*"
 }
 ```
+
+### References
+https://developers.google.com/web/fundamentals/payments/payment-apps-developer-guide/android-payment-apps
+https://rsolomakhin.github.io/
